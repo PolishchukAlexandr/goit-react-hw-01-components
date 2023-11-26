@@ -1,14 +1,14 @@
 import { UserProfile } from 'components/Profile/Profile';
 import user from 'Data/user.json';
 
-import { Statistic } from '';
-import data from '';
+// import { Statistic } from '';
+// import data from '';
 
-import { Friends } from '';
-import friends from '';
+// import { Friends } from '';
+// import friends from '';
 
-import { TransactionHistory } from '';
-import  transaction from '';
+// import { TransactionHistory } from '';
+// import  transaction from '';
 
 
 export const App = () => {
